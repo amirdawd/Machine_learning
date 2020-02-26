@@ -1,4 +1,4 @@
 def main():
-    print('Linear regression in under construction..')
+    print('Logistic regression in under construction..')
 
 
